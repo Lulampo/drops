@@ -1,0 +1,72 @@
+{
+    "1": {
+        "Content":[
+            "Tópico: Bebendo com amigos.",
+            "<break time=\"2s\"/>",
+            "Não posso beber.",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\">I can't drink.</lang></voice>",
+            "<break time=\"2s\"/>",
+            "",
+            "Acho que bebi demais.",
+            "<voice name=\"Joanna\"> <lang xml:lang=\"en-US\"> I think i've had enough. </lang></voice> ",
+            "<break time=\"2s\"/>",
+            "",
+            "Estou meio alegre.",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\"> I'm a little tipsy. </lang></voice>",
+            "<break time=\"2s\"/>",
+            "",
+            "Tá bom, a saideira.",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\"> Ok, one for the road. </lang></voice>",
+            ""
+        ]
+    },
+    "2": {
+        "Content": [
+            "Tópico: Formas de Cumprimentar.",
+            "<break time=\"2s\"/>",
+            "Como vai você?",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\">How is it going? </lang></voice>",
+            "<break time=\"2s\"/>",
+            "",
+            "Como estão todos? ",
+            "<voice name=\"Joanna\"> <lang xml:lang=\"en-US\"> Whats Going On? </lang></voice> ",
+            "<break time=\"2s\"/>",
+            "",
+            "Prazer em te conhecer!",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\"> Nice to meet you! </lang></voice>",
+            ""
+        ]
+    },
+    "3":{
+        "Content": [
+            "Tópico: Como checar compreensão.",
+            "",
+            "Está acompanhando meu raciocínio? ",
+            "Não, me perdi. Você poderia explicar novamente, por favor?",
+            "<break time=\"2s\"/> ",
+            "<voice name=\"Joanna\"> <lang xml:lang=\"en-US\"> Are you following me? </lang></voice>",
+            "<voice name=\"Matthew\"> <lang xml:lang=\"en-US\"> No, you’ve lost me. Could you explain that again, please? </lang></voice>",
+            "<break time=\"2s\"/>",
+            "",
+            "Está me acompanhando?",
+            "Desculpe, sobre o que estava falando?",
+            "<break time=\"2s\"/>",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\"> Are you with me? </lang></voice> ",
+            "<voice name=\"Matthew\"><lang xml:lang=\"en-US\"> Sorry, what was that again? </lang></voice> ",
+            "<break time=\"2s\"/>",
+            "",
+            "Está fazendo sentido?",
+            "Poderia me explicar de outra forma, por favor?",
+            "Poderia me explicar mais uma vez, por favor?",
+            "<break time=\"2s\"/>",
+            "<voice name=\"Joanna\"><lang xml:lang=\"en-US\">Am I making sense?</lang></voice> ",
+            "<voice name=\"Matthew\"><lang xml:lang=\"en-US\"> Could you explain that another way, please? <break time=\"2s\"/>",
+            "<voice name=\"Matthew\"><lang xml:lang=\"en-US\"> Could you explain that just one more time, please? <break time=\"2s\"/>",
+        ]
+    },
+    "25":{
+        "Content": [
+            "10-25"
+        ]
+    }
+}
